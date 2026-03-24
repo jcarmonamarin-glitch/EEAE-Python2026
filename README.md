@@ -25,6 +25,8 @@
 ## Ejercicio 1: Calculadora básica con clases
 Crea una clase `Calculadora` que tenga métodos para sumar, restar, multiplicar y dividir dos números.  
 Incluye un constructor que inicialice los dos números como atributos.
+>[!TIP]
+>En [resources/CalculadoraGUI](resources/CalculadoraGUI.py) está el código para crear un simplísimo entorno gráfico de nuestra clase Calculadora
 
 ## Ejercicio 2: Contador de palabras
 Escribe una función que reciba una cadena de texto y devuelva cuántas palabras contiene.  
